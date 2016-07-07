@@ -6,8 +6,9 @@ public class MainClass {
 		// TODO Auto-generated method stub
 		Account account = new Account();
 		account.deposit();
+		geetings();
 	}
-public void geetings(){
+	public static void geetings(){
 	System.out.println("Thank you");
 }
 }
