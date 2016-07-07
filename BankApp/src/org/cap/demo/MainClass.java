@@ -9,6 +9,6 @@ public class MainClass {
 		geetings();
 	}
 	public static void geetings(){
-	System.out.println("Thank you");
+	System.out.println("Thank you----");
 }
 }
