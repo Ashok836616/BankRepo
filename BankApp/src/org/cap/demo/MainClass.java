@@ -11,7 +11,7 @@ public class MainClass {
 	public static void geetings(){
 	System.out.println("Thank you----");
 }
-	public static void hi(){
+	public static void Branch3(){
 		System.out.println("Thank you----");
 	}
 }
