@@ -7,5 +7,7 @@ public class MainClass {
 		Account account = new Account();
 		account.deposit();
 	}
-
+public void geetings(){
+	System.out.println("Thank you");
+}
 }
